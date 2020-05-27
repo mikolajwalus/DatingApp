@@ -28,12 +28,12 @@ namespace DatingApp.API.Dtos
         [Required]
         public string Country { get; set; }
         public DateTime Created { get; set; }
-        public DateTime LastAcitive { get; set; }
+        public DateTime LastActive { get; set; }
 
         public UserForRegisterDto()
         {
             Created = DateTime.Now;
-            LastAcitive = DateTime.Now;
+            LastActive = DateTime.Now;
         }
     }
 }
