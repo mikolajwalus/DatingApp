@@ -9,7 +9,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-# Table of Contents
+## Table of Contents
 
 * [About the Project](#about-the-project)
 * [Technologies](#technologies)
@@ -20,7 +20,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-# About The Project
+## About The Project
 
 
 This project was created based of Neil Cummings tutorial for learning web technologies. 
@@ -31,7 +31,7 @@ Application provides basic functionalities for the web application such as:
 - creating own profile
 - texting other user
 
-# Technologies
+## Technologies
 
 * [.Net Core 3](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)
 * [Angular 9](https://angular.io/)
